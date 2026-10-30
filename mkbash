@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+target="$1"
+echo "#!/usr/bin/env bash" >> $target
+chmod +x $target
+vim $target
