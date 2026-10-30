@@ -1,5 +1,5 @@
 # Mkbash
-Mkbash is a very simple 5 line bash script to set up bash files.
+Mkbash is a very small bash script to set up bash files.
 
 ## Usage
 
